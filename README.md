@@ -7,7 +7,7 @@ IP Tokenization on Stellar is a decentralized application that enables creators 
 
 This system aims to empower creators by giving them full control over their digital assets while enabling easy transfer and future monetization opportunities.
 
-Contract Address : ce0ad86f677c41a0d66a1bc64d933e7e4af6077ad743755cc714b209c2453881
+Contract Address : CCDTX3KI7YEHAB42TAZZL4Q4PZLXGOPXTBK6FDGC36YYJGYS74LVP44Z
 
 
 <img width="1366" height="690" alt="image" src="https://github.com/user-attachments/assets/621bca76-9639-4c3f-a877-af8251254c12" />
